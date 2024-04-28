@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
  ![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueCaldeira&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueCaldeira&size_weight=0.5&count&layout=pie&theme=github_dark)
--->
+
