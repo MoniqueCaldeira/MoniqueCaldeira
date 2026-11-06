@@ -20,7 +20,7 @@ I work at the intersection of technology and education, with experience in progr
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueCaldeira&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most used languages on GitHub" />
+  <img src=".github/workflows/readme-cards.yml" />
 </p>
 
 <p align="center">
