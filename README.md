@@ -20,7 +20,7 @@ I work at the intersection of technology and education, with experience in progr
 ## GitHub
 
 <p align="center">
-  <img src=".github/workflows/readme-cards.yml" />
+  <img src="./profile/top-langs.svg" alt="Most used programming languages" />
 </p>
 
 <p align="center">
