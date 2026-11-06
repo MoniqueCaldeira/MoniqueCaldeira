@@ -22,7 +22,3 @@ I work at the intersection of technology and education, with experience in progr
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Most used programming languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoniqueCaldeira&theme=onedark&no-frame=true&no-bg=true" alt="GitHub profile trophies" />
-</p>
