@@ -1,20 +1,28 @@
-### Hi there 👋
+# Hi, I'm Monique 👋
 
-<!--
-**MoniqueCaldeira/MoniqueCaldeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computing graduate | EdTech | Learning Design**
 
-Here are some ideas to get you started:
+I work at the intersection of technology and education, with experience in programming education, instructional design, teacher training, and digital learning content. I enjoy turning complex ideas into clear, engaging learning experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of experience
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueCaldeira&size_weight=0.5&hide_border=true&count&layout=pie&theme=github_dark)
+- Educational technology and digital learning
+- Instructional design and learning experience design
+- Programming education
+- Teacher training and learning journeys
+- Content quality and continuous improvement
+- Team mentoring and delivery coordination
 
-![Top Langs](https://github-profile-trophy.vercel.app/?username=MoniqueCaldeira&theme=onedark)
+## Find me online
+
+[LinkedIn](https://www.linkedin.com/in/monique-caldeira-dev)
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueCaldeira&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most used languages on GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MoniqueCaldeira&theme=onedark&no-frame=true&no-bg=true" alt="GitHub profile trophies" />
+</p>
